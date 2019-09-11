@@ -17,6 +17,7 @@ If you have any questions, **receive a message for "Manual Review" during KYC re
 SHA256 Hash:
 
 ```
+dd282c7b5577661e6cf86df104e109856631b49a055fe26300f1749af181e7fc  ResistanceWallet-2.2.2.dmg
 ```
 
 ### Windows
@@ -29,5 +30,6 @@ SHA256 Hash:
 SHA256 Hash:
 
 ```
+3af691c7fe649dc845c7be0ba1540da6681a38ed2c9abe4febf2e7af642c190d  ResistanceWallet-Setup-2.2.2.exe.zip
 ```
 
