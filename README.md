@@ -7,7 +7,7 @@ If you have any questions, **receive a message for "Manual Review" during KYC re
 
 ### MacOS
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.2/ResistanceWallet-macOS-2.2.2.dmg. 
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.3/ResistanceWallet-macOS-2.2.3.dmg. 
 2. Double-click the unzipped DMG file. You will see a message that says Resistance Wallet can't be opened because it's from an unidentified developer. Click "OK".
 3. Open "System Preferences > Security & Privacy". Click "Open Anyways" at the bottom.
 4. You will see a message that says "Resistance Wallet is from an Unidentified Developer". Click "Open".
@@ -17,19 +17,19 @@ If you have any questions, **receive a message for "Manual Review" during KYC re
 SHA256 Hash:
 
 ```
-dd282c7b5577661e6cf86df104e109856631b49a055fe26300f1749af181e7fc  ResistanceWallet-macOS-2.2.2.dmg
+757e2ce80c85ad91f155f273a378785b9e8a20c1d489ab3514c54b976cf0a0fb  ResistanceWallet-macOS-2.2.3.dmg
 ```
 
 ### Windows
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.2/ResistanceWallet-windows-2.2.2.zip.
-2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.1.0.exe". It will begin to install Resistance.
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.3/ResistanceWallet-windows-2.2.3.zip.
+2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.2.3.exe". It will begin to install Resistance.
 3. Once it's finished, Resistance should automatically open.
 4. Once it's open, you can open it in the future by looking in your Start menu.
 
 SHA256 Hash:
 
 ```
-3af691c7fe649dc845c7be0ba1540da6681a38ed2c9abe4febf2e7af642c190d  ResistanceWallet-windows-2.2.2.zip
+cf21d3146a5a24cf4dc27be1c715f2b5ebec1dafb6aeef4a4b66d5f3f40a2c6b  ResistanceWallet-windows-2.2.3.zip
 ```
 
