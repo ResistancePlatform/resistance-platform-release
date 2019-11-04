@@ -22,7 +22,7 @@ b0d6090b0eaf306316d4fdb3b57478f79520bfdf1988c0c9a223957faa71273a  ResistanceWall
 
 ### Windows
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.4/ResistanceWallet-windows-2.2.5.zip.
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.5/ResistanceWallet-windows-2.2.5.zip.
 2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.2.5.exe". It will begin to install Resistance.
 3. Once it's finished, Resistance should automatically open.
 4. Once it's open, you can open it in the future by looking in your Start menu.
