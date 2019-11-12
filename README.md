@@ -7,7 +7,7 @@ If you have any questions, **receive a message for "Manual Review" during KYC re
 
 ### MacOS
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.5/ResistanceWallet-macOS-2.2.5.dmg. 
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.6/ResistanceWallet-macOS-2.2.6.dmg. 
 2. Double-click the unzipped DMG file. You will see a message that says Resistance Wallet can't be opened because it's from an unidentified developer. Click "OK".
 3. Open "System Preferences > Security & Privacy". Click "Open Anyways" at the bottom.
 4. You will see a message that says "Resistance Wallet is from an Unidentified Developer". Click "Open".
@@ -22,7 +22,7 @@ a3bda0397e9b4451d5e556ea3937c8e4c630ec589cdbbb1754aee234b32ff585  ResistanceWall
 
 ### Windows
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.5/ResistanceWallet-windows-2.2.5.zip.
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.2.6/ResistanceWallet-windows-2.2.6.exe.
 2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.2.5.exe". It will begin to install Resistance.
 3. Once it's finished, Resistance should automatically open.
 4. Once it's open, you can open it in the future by looking in your Start menu.
