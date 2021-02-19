@@ -25,7 +25,7 @@ SHA256 Hash:
 
 ### Windows
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.3.0/ResistanceWallet.Setup.2.3.0.exe.
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.3.0/ResistanceWallet-windows-2.3.0.exe.
 2. Double-click the file named "ResistanceWallet-windows-2.3.0.exe". It will begin to install Resistance.
 3. Once it's finished, Resistance should automatically open.
 4. Once it's open, you can open it in the future by looking in your Start menu.
