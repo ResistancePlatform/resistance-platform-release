@@ -8,18 +8,19 @@ If you have any questions, **receive a message for "Manual Review" during KYC re
 ### MacOS
 
 1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-platform-release/releases/download/2.3.0/ResistanceWallet-macOS-2.3.0.zip.
-2. Right click the file named ResistanceWallet-macOS-2.3.0.zip
-3. Click "Open With" and select "Archive Utility". This should extract the file ResistanceWallet.
-4. Copy Paste ResistanceWallet file into the "/Applications/" folder or just drag and drop into the "/Applications/" folder.
-5. if message box prompts that "ResistanceWallet" already exists, click "Replace"
-6. Open the ResistanceWallet file iniside "/Applications/"
-7. This should run the application.
+2. It should auto extract into ResistanceWallet app file. If not, Right click the file named ResistanceWallet-macOS-2.3.0.zip. Click "Open With" and select "Archive Utility". This should extract the file ResistanceWallet.
+3. Copy Paste ResistanceWallet file into the "/Applications/" folder or just drag and drop into the "/Applications/" folder.
+4. if message box prompts that "ResistanceWallet" already exists, click "Replace"
+5. Open the ResistanceWallet file iniside "/Applications/"
+6. If you see a message that says Resistance Wallet can't be opened because it's from an unidentified developer. Click "OK" or "Cancel".
+7. Open "System Preferences > Security & Privacy". Click "Open Anyways" at the bottom.
+8. You will see a message that says "Resistance Wallet is from an Unidentified Developer". Click "Open".
 
 
 SHA256 Hash:
 
 ```
-967034dc9d59b81c60b819fe144fe704c59df38431abe801f9ff423e078b1810  ResistanceWallet-macOS-2.3.0.zip
+b494804c98a063ea5df0d0b565940684311bbaf9130d35f66918e9b92c3ba202  ResistanceWallet-macOS-2.3.0.zip
 ```
 
 
